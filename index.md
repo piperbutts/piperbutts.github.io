@@ -19,3 +19,23 @@ A professional portfolio featuring academic projects, lab work, research papers,
 
 ## Portfolio & Research Projects
 [View Research Projects & Laboratory Posters](projects.md)
+
+## Volunteer Experience & Clubs
+* temp info here
+
+## Hobbies & Interests
+* temp info here
+
+## References
+* **Reference name 1**
+    * Position: temp
+    * Email: temp
+    * Phone (number?): temp
+* **Reference name 2**
+    * Position: temp
+    * Email: temp
+    * Phone (number?): temp
+* **Reference name 3**
+    * Position: temp
+    * Email: temp
+    * Phone (number?): temp
