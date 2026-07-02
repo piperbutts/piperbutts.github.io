@@ -41,7 +41,9 @@ A professional portfolio featuring academic projects, lab work, research papers,
     * Phone (number?): temp
 
 ## Get in Touch
-If you have any questions about my research, coursework, or technical skills, please feel free to reach out. I would be happy to discuss my projects or skills in further detail.
 
-**Email:** piperbutts@gmail.com 
-**LinkedIn:** https://www.linkedin.com/in/piperbutts/ 
+<p>
+If you have any questions about my research, coursework, or technical skills, please feel free to reach out. I would be happy to discuss my projects or skills in further detail.<br><br>
+<strong>Email:</strong> piperbutts@gmail.com<br>
+<strong>LinkedIn:</strong> https://www.linkedin.com/in/piperbutts/ 
+</p>
