@@ -10,7 +10,7 @@ title: Research Projects
 * **Coursework:** [Research Methods in Psychology: PSYC 3111](https://degreedraft.com/cu-boulder/courses/psyc-3111-psychological-science-2-research-methods-in-psychology)
 * **[Download Full APA Paper](Butts_FullAPAPaper.pdf)**
 
-## Laboratory Posters & Research Experience
+# Laboratory Posters & Research Experience
 
 ## Phage Genomics Laboratory
 * **Context:** Discovery-based research from environmental sample to genomic characterization.
