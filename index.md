@@ -14,8 +14,14 @@ A professional portfolio featuring academic projects, lab work, research papers,
 * **Broad Applications:** Clinical and translational research, cellular biology, and general laboratory operations
 
 ## Core Technical Skills
-* **Laboratory Proficiency:** Bacteriophage discovery, serial dilutions, plaque assays, DNA/RNA extraction, gel electrophoresis, electron microscopy, cell culture, RT-PCR, cDNA synthesis.
-* **Data Analysis:** Factorial ANOVA, statistical modeling, R Studio, Primer3Plus, Benchling.
+* **Laboratory & Research Proficiency:** Bacteriophage discovery, serial dilutions, plaque assays, DNA/RNA extraction, gel electrophoresis, electron microscopy, cell culture, RT-PCR, cDNA synthesis, aseptic technique, sample handling & preparation, contamination prevention, and quality control.
+* **Data & Programming:** Python, Java, JavaScript, R, R Studio, Factorial ANOVA, & statistical modeling.
+* **Software & Scientific Tools:** Primer3Plus, Benchling, ImageJ (FIJI), BLAST, STRING, STITCH, Chimera, PyMOL, Allen Brain Atlas, Microsoft Office, Google Workspace, and Adobe Suite.
+* **Clinical & Scientific Documentation:** Patient charting, EHR documentation, medicial terminology, HIPPA/OSHA guidelines, data integrity, and strict protocol adherence.
+
+## Languages
+* English (Native)
+* French (Conversational)
 
 ## Portfolio & Research Projects
 [View Research Projects & Laboratory Posters](projects.md)
