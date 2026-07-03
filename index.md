@@ -118,11 +118,12 @@
 
 <p>Interested in connecting? Let's get in touch:</p>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 40px;">
-  <a href="mailto:your-email@gmail.com" style="padding: 8px 16px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Email Me</a>
-  <a href="https://linkedin.com/in/yourprofile" style="padding: 8px 16px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">LinkedIn</a>
+  <a href="mailto:piperbutts@gmail.com" style="padding: 8px 16px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Email Me</a>
+  <a href="https://linkedin.com/in/piperbutts" style="padding: 8px 16px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">LinkedIn</a>
+  <a href="https://github.com/piperbutts" style="padding: 8px 16px; background-color: #333; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">GitHub</a>
   <a href="#" style="padding: 8px 16px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View Resume (Coming Soon)</a>
 </div>
 
 <hr>
 
-<p><em>Official transcript and professional references available upon request.</em></p> 
+<p><em>Official transcript and professional references available upon request.</em></p>
