@@ -19,9 +19,22 @@ A professional portfolio featuring academic projects, lab work, research papers,
 * **Software & Scientific Tools:** Primer3Plus, Benchling, ImageJ (FIJI), BLAST, STRING, STITCH, Chimera, PyMOL, Allen Brain Atlas, Microsoft Office, Google Workspace, and Adobe Suite.
 * **Clinical & Scientific Documentation:** Patient charting, EHR documentation, medicial terminology, HIPPA/OSHA guidelines, data integrity, and strict protocol adherence.
 
+## Education
+
+**University of Colorado Boulder**
+*Bachelor of Arts in Psychology*
+*Minor in Molecular, Cellular, and Developmental Biology*
+
+* **Relevant Coursework:**
+    * **Advanced Molecular Biology Skills (MCDB 3456)** - *Broad genomics and molecular techniques to refine biology-related skills*
+    * **Behavioral Genetics (PSYC 3102)** - *Exploration of genetic and enviornmental influences on behavior*
+    * **Advanced Cognitive Psychology (PSYC 4145)** - *Research-intensive course featuring laboratory design and data analysis*
+    * **Principles of Genetics (MCDB 2150)** - *Foundation molecular and transmission genetics*
+
 ## Languages
 * English (Native)
 * French (Conversational)
+* Spanish (Elementary)
 
 ## Portfolio & Research Projects
 [View Research Projects & Laboratory Posters](projects.md)
