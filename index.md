@@ -119,15 +119,10 @@
 Interested in connecting? Let's get in touch:
 
 <div style="display: flex !important; gap: 10px !important; flex-wrap: wrap !important; margin-bottom: 40px !important;">
-  
   <a href="mailto:piperbutts@gmail.com" style="padding: 8px 16px !important; background-color: #D44638 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">Email Me</a>
-  
   <a href="https://linkedin.com/in/piperbutts" style="padding: 8px 16px !important; background-color: #0077B5 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">LinkedIn</a>
-  
   <a href="https://github.com/piperbutts" style="padding: 8px 16px !important; background-color: #333333 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">GitHub</a>
-  
   <a href="Resume.pdf" style="padding: 8px 16px !important; background-color: #6C757D !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">View Resume</a>
-
 </div>
 
 <hr>
