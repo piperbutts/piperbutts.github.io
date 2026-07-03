@@ -1,11 +1,13 @@
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-top: 30px; margin-bottom: 40px; flex-wrap: wrap;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; gap: 30px !important; margin-top: 30px !important; margin-bottom: 40px !important; text-align: left !important;">
 
-  <div style="flex: 0 0 180px;">
+  <!-- The Photo -->
+  <div style="flex: 0 0 180px !important;">
     <img src="/assets/headshot.jpg" alt="Piper Butts" style="width: 180px; height: 180px; object-fit: cover; object-position: top; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 
-  <div style="flex: 1; min-width: 300px;">
-    <h2 style="margin-top: 0;">Professional Summary</h2>
+  <!-- The Summary -->
+  <div style="flex: 1 !important;">
+    <h2 style="margin-top: 0 !important;">Professional Summary</h2>
     <p>A professional portfolio featuring academic projects, lab work, research papers, presentations, and selected leadership experience. This site provides a broader view of my research interests, technical skills, scientific writing, and ongoing professional development.</p>
   </div>
 
