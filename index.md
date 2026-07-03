@@ -14,6 +14,7 @@ A professional portfolio featuring academic projects, lab work, research papers,
 * **Broad Applications:** Clinical and translational research, cellular biology, and general laboratory operations
 
 ## Technical Proficiency
+
 | Category | Skills |
 | :--- | :--- |
 | **Laboratory & Research** | Bacteriophage discovery, PCR (RT/qPCR), DNA/RNA extraction, gel electrophoresis, cell culture, electron microscopy, aseptic technique, quality control. |
