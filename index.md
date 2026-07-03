@@ -21,21 +21,34 @@ A professional portfolio featuring academic projects, lab work, research papers,
 
 ## Education
 
-**University of Colorado Boulder**
-*Bachelor of Arts in Psychology*
-*Minor in Molecular, Cellular, and Developmental Biology*
+<div style="margin-bottom: 20px;">
+    <strong>University of Colorado Boulder</strong><br>
+    <em>Bachelor of Arts in Psychology</em><br>
+    <em>Minor in Molecular, Cellular, and Developmental Biology</em>
+</div> 
 
-* **Relevant Coursework:**
-    * **Advanced Molecular Biology Skills (MCDB 3456)** - *Broad genomics and molecular techniques to refine biology-related skills*
-    * **Behavioral Genetics (PSYC 3102)** - *Exploration of genetic and enviornmental influences on behavior*
-    * **Advanced Cognitive Psychology (PSYC 4145)** - *Research-intensive course featuring laboratory design and data analysis*
-    * **Principles of Genetics (MCDB 2150)** - *Foundation molecular and transmission genetics*
+### Relevant Coursework
+* **Advanced Molecular Biology Skills (MCDB 3456)** - *Broad genomics and molecular techniques to refine biology-related skills*
+* **Behavioral Genetics (PSYC 3102)** - *Exploration of genetic and enviornmental influences on behavior*
+* **Advanced Cognitive Psychology (PSYC 4145)** - *Research-intensive course featuring laboratory design and data analysis*
+* **Principles of Genetics (MCDB 2150)** - *Foundation molecular and transmission genetics*
  
-* **Campus Involvement:**
+### Campus Involement
+**Student Advocacy & Justice Lead** | *Libby Community Council* (2022-2023)
+* Served as the primary liaison between residents and administration; synthesized community feedback to drive actionable improvements.
+* Coordinated multi-stakeholder events and managed community-wide polling initiatives.
 
-**Student Advocacy & Justice Lead** | *Libby Community Council*
-  * Served as the primary liaison between residents and administration; synthesized community feedback to drive actionable improvements.
-  * Coordinated multi-stakeholder events and managed community-wide polling initiatives.
+**Public Safety Cadet** | *City of Boulder PD* (2022-2023)
+* Participated in an intensive, multi-disciplinary training program focused on high-pressure decision-making, procedural discipline, and emergency response.
+* Developed advanced skills in situational awareness and incident documentation, maintaining strict adherence to safety and ethical protocols in sensitive environments.
+
+**Competitive Club Fencing** | CU Boulder Fencing Club (2022-2026)
+* Maintained a four-year commitment to collegiate athletics, balancing the rigors of competitive training and travel with a full-time academic research schedule.
+* Demonstrated consistent discipline and strategic focus, navigating both individual performance goals and team-based coordination.
+
+**Member** | *Marginalized Genders in Gaming* (2024 – 2026)
+* Facilitated an inclusive gaming environment by managing tournament logistics, coordinating movie nights, and organizing large-scale group activities.
+* Cultivated community-building initiatives to foster a welcoming social space for a diverse student population.
 
 ## Languages
 * English (Native)
