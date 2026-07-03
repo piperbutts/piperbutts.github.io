@@ -144,7 +144,7 @@ Interested in connecting? Let's get in touch:
 .btn:nth-child(2) { background-color: #0077B5; }
 .btn:nth-child(3) { background-color: #333333; }
 .btn:nth-child(4) { background-color: #6C757D; }
-</style>
+</style> 
 
 <hr>
 
