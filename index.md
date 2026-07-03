@@ -30,6 +30,12 @@ A professional portfolio featuring academic projects, lab work, research papers,
     * **Behavioral Genetics (PSYC 3102)** - *Exploration of genetic and enviornmental influences on behavior*
     * **Advanced Cognitive Psychology (PSYC 4145)** - *Research-intensive course featuring laboratory design and data analysis*
     * **Principles of Genetics (MCDB 2150)** - *Foundation molecular and transmission genetics*
+ 
+* **Campus Involvement:**
+
+**Student Advocacy & Justice Lead** | *Libby Community Council*
+  * Served as the primary liaison between residents and administration; synthesized community feedback to drive actionable improvements.
+  * Coordinated multi-stakeholder events and managed community-wide polling initiatives.
 
 ## Languages
 * English (Native)
