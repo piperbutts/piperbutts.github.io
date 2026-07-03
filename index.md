@@ -1,9 +1,11 @@
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/headshot.jpg" alt="Piper Butts" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="text-align: center; margin-top: 20px; margin-bottom: 30px;">
+  <img src="/assets/headshot.jpg" alt="Piper Butts" style="width: 180px; height: 180px; object-fit: cover; object-position: top; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-## Professional Summary
-A professional portfolio featuring academic projects, lab work, research papers, presentations, and selected leadership experience. This site provides a broader view of my research interests, technical skills, scientific writing, and ongoing professional development.
+<div style="max-width: 800px; margin: 0 auto; text-align: left; padding: 0 20px;">
+  <h2>Professional Summary</h2>
+  <p>A professional portfolio featuring academic projects, lab work, research papers, presentations, and selected leadership experience. This site provides a broader view of my research interests, technical skills, scientific writing, and ongoing professional development.</p>
+</div>
 
 ## Professional Goals & Scientific Interests
 * **Immediate Career Goals:** Securing a role as a Laboratory Technician, Research Assistant, or Clinical Assistant to gain applied experience in foundational research or medical settings.
