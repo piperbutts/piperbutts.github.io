@@ -58,8 +58,22 @@ A professional portfolio featuring academic projects, lab work, research papers,
 ## Portfolio & Research Projects
 [View Research Projects & Laboratory Posters](projects.md)
 
-## Volunteer Experience & Clubs
-* temp info here
+## Leadership, Involvement, and Community
+
+**Member** | *Local Fencing Club* (2014 – Present)
+<p>Sustained a 12-year commitment to competitive athletics, demonstrating long-term discipline, advanced technical mastery, and continuous skill refinement.</p> 
+
+**Volunteer** | *Sleep in Heavenly Peace* (2018 – Present)
+* Collaborate with nonprofit teams to build and deliver beds to families in need.
+* Maintain safe, organized, and efficient project workflows during community build events and home installations.
+
+**Science Fair Judge & Outreach Volunteer** | *Local Elementary Schools*
+* Evaluated student-led projects, providing constructive feedback to encourage early interest in scientific inquiry and experimental design.
+* Communicated complex scientific concepts to non-technical audiences, fostering an inclusive environment for young students.
+
+**Peer Mentor & Student Leader** | *Middle & High School Programs*
+* Provided mentorship to incoming 6th and 9th-grade students, facilitating their transition into new academic environments.
+* Organized team-building activities and acted as a resource for academic and social guidance to ensure student success.
 
 ## Hobbies & Interests
 * temp info here
