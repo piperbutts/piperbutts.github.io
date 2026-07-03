@@ -126,7 +126,7 @@ Interested in connecting? Let's get in touch:
   
   <a href="https://github.com/piperbutts" style="padding: 8px 16px !important; background-color: #333333 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">GitHub</a>
   
-  <a href="#" style="padding: 8px 16px !important; background-color: #6C757D !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">View Resume (Coming Soon)</a>
+  <a href="Resume.pdf" style="padding: 8px 16px !important; background-color: #6C757D !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">View Resume</a>
 
 </div>
 
