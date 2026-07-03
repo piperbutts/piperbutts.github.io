@@ -118,21 +118,17 @@
 
 Interested in connecting? Let's get in touch:
 
-{% raw %}
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 40px;">
-  <!-- Email (Gmail Red) -->
-  <a href="mailto:your-email@gmail.com" style="padding: 8px 16px; background-color: #D44638; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Email Me</a>
+<div style="display: flex !important; gap: 10px !important; flex-wrap: wrap !important; margin-bottom: 40px !important;">
   
-  <!-- LinkedIn (Professional Blue) -->
-  <a href="https://linkedin.com/in/yourprofile" style="padding: 8px 16px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">LinkedIn</a>
+  <a href="mailto:your-email@gmail.com" style="padding: 8px 16px !important; background-color: #D44638 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">Email Me</a>
   
-  <!-- GitHub (Charcoal) -->
-  <a href="https://github.com/piperbutts" style="padding: 8px 16px; background-color: #333333; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">GitHub</a>
+  <a href="https://linkedin.com/in/yourprofile" style="padding: 8px 16px !important; background-color: #0077B5 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">LinkedIn</a>
   
-  <!-- Resume (Neutral Gray) -->
-  <a href="#" style="padding: 8px 16px; background-color: #6C757D; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View Resume (Coming Soon)</a>
+  <a href="https://github.com/piperbutts" style="padding: 8px 16px !important; background-color: #333333 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">GitHub</a>
+  
+  <a href="#" style="padding: 8px 16px !important; background-color: #6C757D !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">View Resume (Coming Soon)</a>
+
 </div>
-{% endraw %}
 
 <hr>
 
