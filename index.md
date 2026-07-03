@@ -112,14 +112,12 @@ A professional portfolio featuring academic projects, lab work, research papers,
 
 ## Get in Touch
 
-<p>
-  If you have any questions about my research, coursework, or technical skills, please feel free to reach out. I would be happy to discuss my projects or skills in further detail.
-</p>
-
-<p>
-  <strong>Email:</strong> <a href="mailto:piperbutts@gmail.com">piperbutts@gmail.com</a><br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/piperbutts/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/piperbutts/</a>
-</p>
+<p>Interested in connecting? Let's get in touch:</p>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 40px;">
+  <a href="mailto:your-email@gmail.com" style="padding: 8px 16px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Email Me</a>
+  <a href="https://linkedin.com/in/yourprofile" style="padding: 8px 16px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">LinkedIn</a>
+  <a href="#" style="padding: 8px 16px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View Resume (Coming Soon)</a>
+</div>
 
 <hr>
 
