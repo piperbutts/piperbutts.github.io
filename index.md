@@ -24,7 +24,8 @@ A professional portfolio featuring academic projects, lab work, research papers,
 <div style="margin-bottom: 20px;">
     <strong>University of Colorado Boulder</strong><br>
     <em>Bachelor of Arts in Psychology</em><br>
-    <em>Minor in Molecular, Cellular, and Developmental Biology</em>
+    <em>Minor in Molecular, Cellular, and Developmental Biology</em><br>
+    <em>August 2022 – May 2026</em>[cite: 2]
 </div> 
 
 ### Relevant Coursework
