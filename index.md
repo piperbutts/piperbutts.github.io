@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; margin-top: -80px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Piper Butts" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; border: 4px solid white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="text-align: center; margin-top: -100px; margin-bottom: 30px; position: relative; z-index: 10;">
+  <img src="headshot.jpg" alt="Piper Butts" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; border: 4px solid white; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
 </div>
 
 ## Professional Summary
