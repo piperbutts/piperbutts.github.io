@@ -32,24 +32,17 @@ A professional portfolio featuring academic projects, lab work, research papers,
 ## Hobbies & Interests
 * temp info here
 
-## References
-* **Reference name 1**
-    * Position: temp
-    * Email: temp
-    * Phone (number?): temp
-* **Reference name 2**
-    * Position: temp
-    * Email: temp
-    * Phone (number?): temp
-* **Reference name 3**
-    * Position: temp
-    * Email: temp
-    * Phone (number?): temp
-
 ## Get in Touch
 
 <p>
-If you have any questions about my research, coursework, or technical skills, please feel free to reach out. I would be happy to discuss my projects or skills in further detail.<br><br>
-<strong>Email:</strong> piperbutts@gmail.com<br>
-<strong>LinkedIn:</strong> https://www.linkedin.com/in/piperbutts/ 
-</p> 
+  If you have any questions about my research, coursework, or technical skills, please feel free to reach out. I would be happy to discuss my projects or skills in further detail.
+</p>
+
+<p>
+  <strong>Email:</strong> <a href="mailto:piperbutts@gmail.com">piperbutts@gmail.com</a><br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/piperbutts/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/piperbutts/</a>
+</p>
+
+<hr>
+
+<p><em>Official transcript and professional references available upon request.</em></p> 
