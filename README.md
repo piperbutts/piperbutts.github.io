@@ -9,7 +9,6 @@ This site is built using Jekyll and Markdown to host my academic and professiona
 
 ### Security
 
-If you believe you have found a security vulnerability, please refer to the [Security Policy](SECURITY.md) for reporting instructions.
-
+If you believe you have found a security vulnerability, please refer to the [Security Policy](SECURITY.md) for reporting instructions. 
 ---
 *Maintained by Piper Butts.*
