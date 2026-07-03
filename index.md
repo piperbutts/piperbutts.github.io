@@ -16,33 +16,33 @@ A professional portfolio featuring academic projects, lab work, research papers,
 ## Technical Proficiency
 
 {% raw %}
-<table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+<table style="width: 100%; border-collapse: collapse; margin-top: 10px; border: 1px solid #333;">
   <thead>
-    <tr style="background-color: #f8f9fa; border-bottom: 2px solid #dee2e6;">
-      <th style="padding: 10px; text-align: left;">Category</th>
-      <th style="padding: 10px; text-align: left;">Skills</th>
+    <tr style="background-color: #f2f2f2; border-bottom: 2px solid #333;">
+      <th style="padding: 12px; text-align: left; border: 1px solid #333;">Category</th>
+      <th style="padding: 12px; text-align: left; border: 1px solid #333;">Skills</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid #dee2e6;">
-      <td style="padding: 10px; font-weight: bold;">Laboratory & Research</td>
-      <td style="padding: 10px;">Bacteriophage discovery, PCR (RT/qPCR), DNA/RNA extraction, gel electrophoresis, cell culture, electron microscopy, aseptic technique, quality control.</td>
+    <tr style="border-bottom: 1px solid #333;">
+      <td style="padding: 12px; font-weight: bold; border: 1px solid #333;">Laboratory & Research</td>
+      <td style="padding: 12px; border: 1px solid #333;">Bacteriophage discovery, PCR (RT/qPCR), DNA/RNA extraction, gel electrophoresis, cell culture, electron microscopy, aseptic technique, quality control.</td>
     </tr>
-    <tr style="border-bottom: 1px solid #dee2e6;">
-      <td style="padding: 10px; font-weight: bold;">Data & Programming</td>
-      <td style="padding: 10px;">Python, Java, JavaScript, R, R Studio, Factorial ANOVA, statistical modeling.</td>
+    <tr style="border-bottom: 1px solid #333;">
+      <td style="padding: 12px; font-weight: bold; border: 1px solid #333;">Data & Programming</td>
+      <td style="padding: 12px; border: 1px solid #333;">Python, Java, JavaScript, R, R Studio, Factorial ANOVA, statistical modeling.</td>
     </tr>
-    <tr style="border-bottom: 1px solid #dee2e6;">
-      <td style="padding: 10px; font-weight: bold;">Clinical & Documentation</td>
-      <td style="padding: 10px;">Patient charting, EHR documentation, medical terminology, HIPAA/OSHA compliance, protocol adherence, data integrity.</td>
+    <tr style="border-bottom: 1px solid #333;">
+      <td style="padding: 12px; font-weight: bold; border: 1px solid #333;">Clinical & Documentation</td>
+      <td style="padding: 12px; border: 1px solid #333;">Patient charting, EHR documentation, medical terminology, HIPAA/OSHA compliance, protocol adherence, data integrity.</td>
     </tr>
     <tr>
-      <td style="padding: 10px; font-weight: bold;">Digital Media</td>
-      <td style="padding: 10px;">Video editing, graphic design, 2D animation, content strategy, Adobe Creative Suite.</td>
+      <td style="padding: 12px; font-weight: bold; border: 1px solid #333;">Digital Media</td>
+      <td style="padding: 12px; border: 1px solid #333;">Video editing, graphic design, 2D animation, content strategy, Adobe Creative Suite.</td>
     </tr>
   </tbody>
 </table>
-{% endraw %} 
+{% endraw %}
 
 ## Education
 
