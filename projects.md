@@ -38,6 +38,7 @@ title: Research Projects
 * **Competency Validation:** Successfully completed all Module Method Tasks (MMTs) to obtain certifications, demonstrating high technical accuracy.
 * **Research Workflow:** Managed self-directed research, including independent instrument scheduling and meeting rigorous bi-weekly submission deadlines.
 * **Methodology:** Developed advanced skills in real-time experimental troubleshooting, focusing on the reproducibility and precision required for biotech research environments.
+* **Scientific Tools Used:** Primer3Plus, Benchling, ImageJ (FIJI), BLAST, STRING, STITCH, Chimera, PyMOL, Allen Brain Atlas.
 
 ## Quantitative & Analytical Coursework
 * **Psychological Science I (Statistics):** Foundations in statistical analysis and psychological data interpretation. [Course Details](https://degreedraft.com/cu-boulder/courses/psyc-2111-psychological-science-i-statistics)
