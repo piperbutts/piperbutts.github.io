@@ -76,7 +76,11 @@ A professional portfolio featuring academic projects, lab work, research papers,
 * Organized team-building activities and acted as a resource for academic and social guidance to ensure student success.
 
 ## Hobbies & Interests
-* temp info here
+
+* **Creative Media & Design:** Passionate about digital storytelling through video editing (short and long-form content), graphic design, and 2D animation.
+* **Athletics & Discipline:** Committed to physical and mental rigor through competitive swimming, diving, and tennis; experienced in team-based choreography through jazz dance.
+* **Continuous Learning:** Enthusiastic about language acquisition (French and Spanish), music theory and piano, and logical puzzles like Sudoku.
+* **Artistic Expression:** Creative outlet through photography, drawing, painting, and scrapbooking, paired with a focus on technical culinary arts.
 
 ## Get in Touch
 
