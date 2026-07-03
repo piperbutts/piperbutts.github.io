@@ -1,5 +1,12 @@
-<div style="text-align: center; margin-top: -120px; margin-bottom: 40px; position: relative; z-index: 10;">
-  <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Piper Butts" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; border: 4px solid white; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-top: 20px; margin-bottom: 40px; flex-wrap: wrap;">
+  
+  <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Piper Butts" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #f0f0f0;">
+  
+  <div style="text-align: left;">
+    <h1 style="margin: 0;">Piper Butts</h1>
+    <p style="margin: 5px 0 0 0; font-size: 1.2em; color: #555;">Multidisciplinary Scientist | Laboratory Specialist | Data Analyst</p>
+  </div>
+  
 </div>
 
 ## Professional Summary
