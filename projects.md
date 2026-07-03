@@ -20,7 +20,7 @@ title: Research Projects
 * **Official Database:** [Herculean Phage Entry (PhagesDB)](https://phagesdb.org/phages/Herculean/)
 
 ![Phage Poster](MCDB1161_Poster.png)
-### Cell Biology Laboratory
+## Cell Biology Laboratory
 * **Context:** Investigated DNA damage repair pathways in *Tetrahymena thermophila*.
 * **Role:** Lead Researcher on JHP gene expression analysis.
 * **Coursework:** [Biology of the Cancer Cell: MCDB 3150](https://degreedraft.com/cu-boulder/courses/mcdb-3150-biology-of-the-cancer-cell)
