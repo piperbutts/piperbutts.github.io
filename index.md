@@ -118,12 +118,33 @@
 
 Interested in connecting? Let's get in touch:
 
-<div style="display: flex !important; gap: 10px !important; flex-wrap: wrap !important; margin-bottom: 40px !important;">
-  <a href="mailto:piperbutts@gmail.com" style="padding: 8px 16px !important; background-color: #D44638 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">Email Me</a>
-  <a href="https://linkedin.com/in/piperbutts" style="padding: 8px 16px !important; background-color: #0077B5 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">LinkedIn</a>
-  <a href="https://github.com/piperbutts" style="padding: 8px 16px !important; background-color: #333333 !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">GitHub</a>
-  <a href="Resume.pdf" style="padding: 8px 16px !important; background-color: #6C757D !important; color: white !important; text-decoration: none !important; border-radius: 5px !important; font-weight: bold !important; display: inline-block !important;">View Resume</a>
+<div class="buttons">
+  <a href="mailto:piperbutts@gmail.com" class="btn">Email Me</a>
+  <a href="https://linkedin.com/in/piperbutts" class="btn">LinkedIn</a>
+  <a href="https://github.com/piperbutts" class="btn">GitHub</a>
+  <a href="Resume.pdf" class="btn">View Resume</a>
 </div>
+
+<style>
+.buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+.btn {
+  padding: 8px 16px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  display: inline-block;
+}
+.btn:nth-child(1) { background-color: #D44638; }
+.btn:nth-child(2) { background-color: #0077B5; }
+.btn:nth-child(3) { background-color: #333333; }
+.btn:nth-child(4) { background-color: #6C757D; }
+</style>
 
 <hr>
 
