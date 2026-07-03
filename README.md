@@ -7,8 +7,8 @@ Personal professional portfolio website built to showcase research experience, l
 ## About
 This site is built using Jekyll and Markdown to host my academic and professional background. It serves as a comprehensive collection of my research posters, analytical coursework, and volunteer leadership history.
 
-### Security
+## Security
 If you believe you have found a security vulnerability, please refer to the [Security Policy](SECURITY.md) for reporting instructions.
 
 <p align="center"> &bull; </p>
-*Maintained by Piper Butts.*
+<em>Maintained by Piper Butts.</em>
