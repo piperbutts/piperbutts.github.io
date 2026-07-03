@@ -1,10 +1,18 @@
+{% raw %}
 <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap; margin-bottom: 30px;">
   <img src="assets/images/headshot.jpg" alt="Piper Butts" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; border: 3px solid #f0f0f0;">
   <div>
     <h1 style="margin: 0;">{{ site.title }}</h1>
-    <p style="margin: 5px 0 0 0; font-size: 1.2em; color: #555;">{{ site.description }}</p>
+    <p style="margin: 5px 0 15px 0; font-size: 1.2em; color: #555;">{{ site.description }}</p>
+    
+    <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+      <a href="mailto:your-email@gmail.com" style="padding: 8px 16px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Email Me</a>
+      <a href="https://linkedin.com/in/yourprofile" style="padding: 8px 16px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">LinkedIn</a>
+      <a href="assets/files/resume.pdf" target="_blank" style="padding: 8px 16px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View Resume</a>
+    </div>
   </div>
 </div>
+{% endraw %}
 
 ## Professional Summary
 A professional portfolio featuring academic projects, lab work, research papers, presentations, and selected leadership experience. This site provides a broader view of my research interests, technical skills, scientific writing, and ongoing professional development.
