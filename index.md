@@ -1,4 +1,6 @@
-<img src="/assets/images/headshot.jpg" alt="Piper Butts" style="width: 150px; height: 150px; border-radius: 50%;">
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/assets/headshot.jpg" alt="Piper Butts" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
 
 ## Professional Summary
 A professional portfolio featuring academic projects, lab work, research papers, presentations, and selected leadership experience. This site provides a broader view of my research interests, technical skills, scientific writing, and ongoing professional development.
