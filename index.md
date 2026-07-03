@@ -1,13 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-top: 20px; margin-bottom: 40px; flex-wrap: wrap;">
-  
-  <img src="{{ site.baseurl }}/assets/images/headshot.jpg" alt="Piper Butts" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #f0f0f0;">
-  
-  <div style="text-align: left;">
-    <h1 style="margin: 0;">Piper Butts</h1>
-    <p style="margin: 5px 0 0 0; font-size: 1.2em; color: #555;">Multidisciplinary Scientist | Laboratory Specialist | Data Analyst</p>
-  </div>
-  
-</div>
+<img src="/assets/images/headshot.jpg" alt="Piper Butts" style="width: 150px; height: 150px; border-radius: 50%;">
 
 ## Professional Summary
 A professional portfolio featuring academic projects, lab work, research papers, presentations, and selected leadership experience. This site provides a broader view of my research interests, technical skills, scientific writing, and ongoing professional development.
