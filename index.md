@@ -1,6 +1,10 @@
----
-title: Piper Butts
----
+<div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap; margin-bottom: 30px;">
+  <img src="assets/images/headshot.jpg" alt="Piper Butts" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; border: 3px solid #f0f0f0;">
+  <div>
+    <h1 style="margin: 0;">{{ site.title }}</h1>
+    <p style="margin: 5px 0 0 0; font-size: 1.2em; color: #555;">{{ site.description }}</p>
+  </div>
+</div>
 
 ## Professional Summary
 A professional portfolio featuring academic projects, lab work, research papers, presentations, and selected leadership experience. This site provides a broader view of my research interests, technical skills, scientific writing, and ongoing professional development.
