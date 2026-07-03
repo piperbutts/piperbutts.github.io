@@ -15,6 +15,7 @@ A professional portfolio featuring academic projects, lab work, research papers,
 
 ## Technical Proficiency
 
+{% raw %}
 <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
   <thead>
     <tr style="background-color: #f8f9fa; border-bottom: 2px solid #dee2e6;">
@@ -40,7 +41,8 @@ A professional portfolio featuring academic projects, lab work, research papers,
       <td style="padding: 10px;">Video editing, graphic design, 2D animation, content strategy, Adobe Creative Suite.</td>
     </tr>
   </tbody>
-</table> 
+</table>
+{% endraw %} 
 
 ## Education
 
