@@ -28,7 +28,7 @@ title: Research Projects
 
 ![Cell Bio Poster](MCDB3150_Poster.png)
 
-## MCDB Skills Center: Modular Laboratory of Advanced Modern Molecular Biology Skills
+## MCDB Skills Center: Modular Laboratory of Advanced Molecular Biology Skills
 <p><strong>Context:</strong> Intensive 4-credit modular research certification focused on mastering modern molecular biology techniques through a "learning by doing" approach.<br>
 <strong>Role:</strong> Student Researcher & Lab Technician.<br>
 <strong>Coursework:</strong> <a href="https://degreedraft.com/cu-boulder/courses/mcdb-3456-skills-center-modular-laboratory-of-advanced-modern-molecular-biology-skills">MCDB 3456</a><br>
