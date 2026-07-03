@@ -13,11 +13,13 @@ A professional portfolio featuring academic projects, lab work, research papers,
 * **Methodological Focus:** Quantitative Data Analysis, Biostatisitcs, and rigorous experimental design.
 * **Broad Applications:** Clinical and translational research, cellular biology, and general laboratory operations
 
-## Core Technical Skills
-* **Laboratory & Research Proficiency:** Bacteriophage discovery, serial dilutions, plaque assays, DNA/RNA extraction, gel electrophoresis, electron microscopy, cell culture, RT-PCR, cDNA synthesis, aseptic technique, sample handling & preparation, contamination prevention, and quality control.
-* **Data & Programming:** Python, Java, JavaScript, R, R Studio, Factorial ANOVA, & statistical modeling.
-* **Software & Scientific Tools:** Primer3Plus, Benchling, ImageJ (FIJI), BLAST, STRING, STITCH, Chimera, PyMOL, Allen Brain Atlas, Microsoft Office, Google Workspace, and Adobe Suite.
-* **Clinical & Scientific Documentation:** Patient charting, EHR documentation, medicial terminology, HIPPA/OSHA guidelines, data integrity, and strict protocol adherence.
+## Technical Proficiency
+| Category | Skills |
+| :--- | :--- |
+| **Laboratory & Research** | Bacteriophage discovery, PCR (RT/qPCR), DNA/RNA extraction, gel electrophoresis, cell culture, electron microscopy, aseptic technique, quality control. |
+| **Data & Programming** | Python, Java, JavaScript, R, R Studio, Factorial ANOVA, statistical modeling. |
+| **Clinical & Documentation** | Patient charting, EHR documentation, medical terminology, HIPAA/OSHA compliance, protocol adherence, data integrity. |
+| **Digital Media** | Video editing, graphic design, 2D animation, content strategy, Adobe Creative Suite. |
 
 ## Education
 
@@ -60,7 +62,6 @@ A professional portfolio featuring academic projects, lab work, research papers,
 [View Research Projects & Laboratory Posters](projects.md)
 
 ## Leadership, Involvement, and Community
-
 **Member** | *Local Fencing Club* (2014 – Present)
 <p>Sustained a 12-year commitment to competitive athletics, demonstrating long-term discipline, advanced technical mastery, and continuous skill refinement.</p> 
 
@@ -77,7 +78,6 @@ A professional portfolio featuring academic projects, lab work, research papers,
 * Organized team-building activities and acted as a resource for academic and social guidance to ensure student success.
 
 ## Hobbies & Interests
-
 * **Creative Media & Design:** Passionate about digital storytelling through video editing (short and long-form content), graphic design, and 2D animation.
 * **Athletics & Discipline:** Committed to physical and mental rigor through competitive swimming, diving, and tennis; experienced in team-based choreography through jazz dance.
 * **Continuous Learning:** Enthusiastic about language acquisition (French and Spanish), music theory and piano, and logical puzzles like Sudoku.
