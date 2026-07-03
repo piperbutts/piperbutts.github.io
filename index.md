@@ -15,12 +15,32 @@ A professional portfolio featuring academic projects, lab work, research papers,
 
 ## Technical Proficiency
 
-| Category | Skills |
-| :--- | :--- |
-| **Laboratory & Research** | Bacteriophage discovery, PCR (RT/qPCR), DNA/RNA extraction, gel electrophoresis, cell culture, electron microscopy, aseptic technique, quality control. |
-| **Data & Programming** | Python, Java, JavaScript, R, R Studio, Factorial ANOVA, statistical modeling. |
-| **Clinical & Documentation** | Patient charting, EHR documentation, medical terminology, HIPAA/OSHA compliance, protocol adherence, data integrity. |
-| **Digital Media** | Video editing, graphic design, 2D animation, content strategy, Adobe Creative Suite. |
+<table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+  <thead>
+    <tr style="background-color: #f8f9fa; border-bottom: 2px solid #dee2e6;">
+      <th style="padding: 10px; text-align: left;">Category</th>
+      <th style="padding: 10px; text-align: left;">Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #dee2e6;">
+      <td style="padding: 10px; font-weight: bold;">Laboratory & Research</td>
+      <td style="padding: 10px;">Bacteriophage discovery, PCR (RT/qPCR), DNA/RNA extraction, gel electrophoresis, cell culture, electron microscopy, aseptic technique, quality control.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #dee2e6;">
+      <td style="padding: 10px; font-weight: bold;">Data & Programming</td>
+      <td style="padding: 10px;">Python, Java, JavaScript, R, R Studio, Factorial ANOVA, statistical modeling.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #dee2e6;">
+      <td style="padding: 10px; font-weight: bold;">Clinical & Documentation</td>
+      <td style="padding: 10px;">Patient charting, EHR documentation, medical terminology, HIPAA/OSHA compliance, protocol adherence, data integrity.</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">Digital Media</td>
+      <td style="padding: 10px;">Video editing, graphic design, 2D animation, content strategy, Adobe Creative Suite.</td>
+    </tr>
+  </tbody>
+</table> 
 
 ## Education
 
