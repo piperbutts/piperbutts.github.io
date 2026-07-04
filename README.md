@@ -5,7 +5,7 @@ Personal professional portfolio website built to showcase research experience, l
 [Visit my Professional Portfolio](https://piperbutts.github.io/)
 
 ## About
-This site is built using Jekyll and Markdown to host my academic and professional background. It serves as a comprehensive collection of my research posters, analytical coursework, and volunteer leadership history.
+This site is built using Jekyll, Markdown, and HTML to host my academic and professional background. It serves as a comprehensive collection of my research posters, analytical coursework, and volunteer leadership history.
 
 ## Security
 If you believe you have found a security vulnerability, please refer to the [Security Policy](SECURITY.md) for reporting instructions.
