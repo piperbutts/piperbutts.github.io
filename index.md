@@ -8,7 +8,7 @@
   <!-- The Summary -->
   <div style="flex: 1 !important;">
     <h2 style="margin-top: 0 !important;">Professional Summary</h2>
-    <p>A professional portfolio featuring academic projects, lab work, research papers, presentations, and selected leadership experience. This site provides a broader view of my research interests, technical skills, scientific writing, and ongoing professional development.</p>
+    <p>I am a recent college graduate with a background in psychology, molecular biology, lab-based coursework, healthcare documentation, and scientific writing. My experience includes academic research projects, data collection, technical documentation, literature review, and direct support roles that required accuracy, communication, and careful observation. I am interested in research, behavioral genetics, and continuing to build the scientific and technical skills needed for future graduate study and research-focused work.</p>
   </div>
 
 </div>
