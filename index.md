@@ -69,20 +69,20 @@
  
 ### Campus Involement
 **Student Advocacy & Justice Lead** | *Libby Community Council* (2022-2023)
-* Served as the primary liaison between residents and administration; synthesized community feedback to drive actionable improvements.
-* Coordinated multi-stakeholder events and managed community-wide polling initiatives.
+* Served as the primary liaison between residents and administration; utilized community feedback to drive actionable improvements.
+* Led community event coordination and student feedback initiatives to support engagement, programming, and residential community needs.
 
-**Public Safety Cadet** | *City of Boulder PD* (2022-2023)
-* Participated in an intensive, multi-disciplinary training program focused on high-pressure decision-making, procedural discipline, and emergency response.
-* Developed advanced skills in situational awareness and incident documentation, maintaining strict adherence to safety and ethical protocols in sensitive environments.
+**Police Preparatory Cadet** | *City of Boulder PD* (2022-2023)
+* Completed hands-on law enforcement training through the Boulder city police department cadet program designed to prepare participants for police academy expectations and field responsibilities.
+* Gained practical exposure to patrol procedures, emergency response, report writing, situational awareness, officer safety, and ethical decision-making in sensitive or high-pressure scenarios.
 
 **Competitive Club Fencing** | CU Boulder Fencing Club (2022-2026)
-* Maintained a four-year commitment to collegiate athletics, balancing the rigors of competitive training and travel with a full-time academic research schedule.
+* Participated in collegiate fencing while balancing practices, club commitments, and full-time academic coursework.
 * Demonstrated consistent discipline and strategic focus, navigating both individual performance goals and team-based coordination.
 
 **Member** | *Marginalized Genders in Gaming* (2024 – 2026)
-* Facilitated an inclusive gaming environment by managing tournament logistics, coordinating movie nights, and organizing large-scale group activities.
-* Cultivated community-building initiatives to foster a welcoming social space for a diverse student population.
+* Participated in an inclusive gaming community focused on collaboration, shared interests, and welcoming social engagement.
+* Engaged with peers in a supportive environment centered on community-building and inclusive recreation.
 
 ## Languages
 * English (Native)
@@ -97,8 +97,8 @@
 <p>Sustained a 12-year commitment to competitive athletics, demonstrating long-term discipline, advanced technical mastery, and continuous skill refinement.</p> 
 
 **Volunteer** | *Sleep in Heavenly Peace* (2018 – Present)
-* Collaborate with nonprofit teams to build and deliver beds to families in need.
-* Maintain safe, organized, and efficient project workflows during community build events and home installations.
+* Support nonprofit build and delivery efforts that provide beds to children and families in need.
+* Help keep community build events and home installations organized, safe, and efficient for volunteers and recipient families.
 
 **Science Fair Judge & Outreach Volunteer** | *Local Elementary Schools*
 * Evaluated student-led projects, providing constructive feedback to encourage early interest in scientific inquiry and experimental design.
@@ -110,7 +110,7 @@
 
 ## Hobbies & Interests
 * **Creative Media & Design:** Passionate about digital storytelling through video editing (short and long-form content), graphic design, and 2D animation.
-* **Athletics & Discipline:** Committed to physical and mental rigor through competitive swimming, diving, and tennis; experienced in team-based choreography through jazz dance.
+* **Athletics & Discipline:** Committed to physical and mental rigor through competitive swimming, diving, and tennis; experienced in team-based choreography through freestyle dance.
 * **Continuous Learning:** Enthusiastic about language acquisition (French and Spanish), music theory and piano, and logical puzzles like Sudoku.
 * **Artistic Expression:** Creative outlet through photography, drawing, painting, and scrapbooking, paired with a focus on technical culinary arts.
 
