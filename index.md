@@ -1,4 +1,4 @@
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; gap: 30px !important; margin-top: 30px !important; margin-bottom: 40px !important; text-align: left !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: center !important; gap: 30px !important; margin-top: 30px !important; margin-bottom: 40px !important; text-align: left !important;">
 
   <!-- The Photo -->
   <div style="flex: 0 0 180px !important;">
