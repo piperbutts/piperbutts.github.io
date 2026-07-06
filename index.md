@@ -89,8 +89,9 @@
 * French (Conversational)
 * Spanish (Elementary)
 
-## Portfolio & Research Projects
+## Portfolios
 [View Research Projects & Laboratory Posters](projects.md)
+[View Creative Media & Design Projects](creative.md)
 
 ## Leadership, Involvement, and Community
 **Member** | *Local Fencing Club* (2014 – Present)
