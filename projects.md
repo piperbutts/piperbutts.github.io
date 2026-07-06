@@ -3,6 +3,13 @@ layout: default
 title: Research Projects
 ---
 
+# Research Projects
+
+<div style="background-color: #f8f9fa; padding: 20px; border-left: 5px solid #0077B5; margin-bottom: 30px;">
+  <strong>Experimental Research & Data Analysis</strong>
+  <p>A compilation of academic research endeavors spanning the biological and psychological sciences. These projects demonstrate rigorous experimental design, application of laboratory protocols, and the translation of complex datasets into actionable research findings.</p>
+</div>
+
 ## Quantitative Research Paper
 **Project:** The Role of Social Support in Mitigating PTSD-Related Sleep Disturbances.
 * **Overview:** Designed a 2x2 factorial study to investigate how social support moderates the relationship between PTSD severity and sleep quality.
