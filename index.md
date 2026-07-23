@@ -90,7 +90,7 @@
 * Spanish (Elementary)
 
 ## Portfolios
-[View Research Projects & Laboratory Posters](projects.md)
+[View Research Projects & Laboratory Posters](projects.md)<br>
 [View Creative Media & Design Projects](creative.md)
 
 ## Leadership, Involvement, and Community
